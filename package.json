@@ -1,0 +1,26 @@
+{
+  "name": "firstproject",
+  "version": "1.0.0",
+  "description": "\"# My First Project\"",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "build": "echo 'Building static files...' && exit 0",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BryanaMAvi/firstProject.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/BryanaMAvi/firstProject/issues"
+  },
+  "homepage": "https://github.com/BryanaMAvi/firstProject#readme",
+  "dependencies": {
+    "firebase": "^12.5.0"
+  }
+}
